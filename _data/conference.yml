@@ -1,9 +1,8 @@
-full_title: Purdue Networks (PurNET) Weekly Seminars
+full_title: Purdue Networks (PurNET) Weekly Seminars on Network Design Research and Implementation
 short_title: PurNET
 email: purduenetworks@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  PurNET is a forum bringing together researchers and practitioners from the ECE and CS Departments 
-  at Purdue University interested in the design, implementation, and evaluation of Networks systems and applications. 
+  PurNET is a forum bringing together researchers and practitioners at Purdue University interested in the design, implementation, and evaluation of Networks systems and applications. 
 location: Purdue University, West Lafayette, IN.
 date: September 17, 2021
 logo_path: ./assets/images/purnet-logos/logo03.png
