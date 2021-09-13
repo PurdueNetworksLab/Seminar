@@ -6,20 +6,15 @@ description: > # this means to ignore newlines until "baseurl:"
   at Purdue University interested in the design, implementation, and evaluation of Networks systems and applications. 
 location: Purdue University, West Lafayette, IN.
 date: September 17, 2021
-logo_path: ./assets/images/purnet-logos/logo03.jpg
+logo_path: ./assets/images/purnet-logos/logo03.png
 slideshow:
   - id: 0
-    image_path: ./assets/images/slideshow/image0.png
+    image_path: ./assets/images/slideshow/image1.png
     description: Purdue University
     photographer_name: NA
     photographer_link: NA
     active: True
   - id: 1
-    image_path: ./assets/images/slideshow/image1.jpg
-    description: Purdue University
-    photographer_name: NA
-    photographer_link: NA
-  - id: 2
     image_path: ./assets/images/slideshow/image2.jpg
     description: Purdue University
     photographer_name: NA
